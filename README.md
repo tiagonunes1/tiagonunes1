@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tiagonunes1
+- 👋 Hi, I’m Tiago
 <!--- - 👀 I’m interested in ...
   - 🌱 I’m currently learning React, Node, Express and MongoDB.
 - 📫 How to reach me .. .--->
